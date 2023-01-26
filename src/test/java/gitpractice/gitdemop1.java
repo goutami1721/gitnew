@@ -7,6 +7,8 @@ public class gitdemop1 {
 	public void print()
 	{
 		System.out.println("hello1");
+		System.out.println("hello3");
+		
 	}
 
 }
