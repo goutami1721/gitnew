@@ -11,5 +11,10 @@ public class gitdemop1 {
 		System.out.print("by");
 		
 	}
+	@Test
+	public void disp()
+	{
+		System.out.println("welcome");
+	}
 
 }
