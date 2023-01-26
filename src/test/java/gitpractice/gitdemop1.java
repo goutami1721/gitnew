@@ -16,5 +16,10 @@ public class gitdemop1 {
 	{
 		System.out.println("welcome");
 	}
+	@Test
+	public void kk()
+	{
+		System.out.print("jj");
+	}
 
 }
