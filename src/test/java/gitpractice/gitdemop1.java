@@ -8,6 +8,7 @@ public class gitdemop1 {
 	{
 		System.out.println("hello1");
 		System.out.println("hello4");
+		System.out.print("by");
 		
 	}
 
